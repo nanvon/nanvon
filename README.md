@@ -19,12 +19,10 @@ Here are some ideas to get you started:
 Code-Read-Think
 
 ### Find Me
-公众号：南枫的寻宝之旅
+- 公众号：南枫的寻宝之旅
 
-知乎专栏：https://zhuanlan.zhihu.com/nanvon-tool
+- 知乎专栏：https://zhuanlan.zhihu.com/nanvon-tool
 
-GitHub：https://github.com/nanvon
+- 豆瓣：https://www.douban.com/people/nanvon/
 
-邮箱：nanvon@outlook.com
-
-豆瓣：https://www.douban.com/people/nanvon/
+- 博客：https://www.nanvon.cn/ 
