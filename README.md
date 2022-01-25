@@ -28,3 +28,5 @@ Code-Read-Think
 - 豆瓣：https://www.douban.com/people/nanvon/
 
 - 个人网站：https://www.nanvon.cn/  
+
+![Nanvon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanvon&count_private=true&show_icons=true&theme=dracula)
