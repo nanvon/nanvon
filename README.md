@@ -29,6 +29,6 @@ Here are some ideas to get you started:
   <ul>
     <li><strong>Working: </strong>Front-end Development Engineer</li>
     <li><strong>Listening: </strong>Vae's music 🎵</li>
-    <li><strong>Reading: </strong> WangXiaobo,MaoXuan📖</li>
+    <li><strong>Reading: </strong> WangXiaobo📖</li>
   </ul>
 </samp>
