@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <samp>
-    <a href="https://blog.nanvon.cn">blog</a> -
-    <a href="https://www.douban.com/people/nanvon">douban</a> -
-    <a href="https://zhuanlan.zhihu.com/nanvon-tool">zhihu</a> 
+    <a href="https://nanvon.cn">blog</a> -
+    <a href="https://www.douban.com/people/nanvon">douban</a>
   </samp>
 </p>
 
