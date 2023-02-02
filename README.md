@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/nanvon/nanvon/main/out/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" />
+</p>
+
+<p align="center">
   <samp>
     <a href="https://nanvon.cn">blog</a> -
     <a href="https://www.douban.com/people/nanvon">douban</a>
