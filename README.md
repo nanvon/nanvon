@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <samp>
-    <a href="https://nanvon.cn">blog</a> -
+    <a href="https://cibudayi.com">blog</a> -
     <a href="https://www.douban.com/people/nanvon">douban</a>
   </samp>
 </p>
